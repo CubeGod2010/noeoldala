@@ -1,0 +1,22 @@
+<html>
+    <meta charset="UTF-8">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title></title>
+    </head>
+    <body>
+        <div>
+            <div class="inlineGomb">
+                <button class="gomb">
+                    <a href="index.html"><p>Főoldal</p></a>
+                </button>
+            </div>
+            <div class="inlineGomb">
+                <button class="gomb">
+                    <a href="osztalyok.html"><p>Osztályok</p></a>
+                </button>
+            </div>
+        </div>
+        <hr>
+    </body>
+</html>
